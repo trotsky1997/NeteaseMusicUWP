@@ -1,6 +1,6 @@
 # NeteaseMusicUWP
 
-UWP 版网易云音乐备份
+UWP 版网易云音乐备份 一键安装
 
 ## 使用方法
 
